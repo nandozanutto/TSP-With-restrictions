@@ -1,9 +1,9 @@
 # TSP-With-restrictions
-A variation of the famous TSP problem with order restrictions.
-Code grade at UFPR: 100
-run try2.py to execute
+A variation of the famous TSP problem with order restrictions.<br/>
+Code grade at UFPR: 100<br/>
+run try2.py to execute<br/>
 
-texto.pdf: specification and resolution of the problem
+texto.pdf: specification and resolution of the problem<br/>
 
 boundFunc1.py: fornece as duas funções de bound, além das ferramentas wrongOrder e cost.<br/>
 inputs.py: utilizado para gerar entradas aleatórias para o problema (uso opcional)<br/>
